@@ -1,3 +1,49 @@
+.airbnb{
+    width: 100px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 70px;
+}
+.bouton{
+    margin:400px;
+    padding-top: 10px
+}
+.globe{
+    width: 25px;
+    height: 25px;
+}
+.conteneur{
+    display: flex;
+    flex-direction: row;    
+    justify-content: space-around;
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.photo img{
+    width: 350px;
+    height: 350px;
+}
+.photo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.apercu{
+    display: flex;
+    flex-direction: column;    
+    justify-content: space-between;
+    align-items: left;
+    
+}
+.villa{
+    
+    
+}
 .piscine{
     width: 25px;
 }
@@ -33,4 +79,8 @@
 }
 .cabanes{
     width: 25px;
+}
+.img1{
+    padding-right: 30px;
+    margin-left: 30px;
 }
