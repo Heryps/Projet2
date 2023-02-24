@@ -6,7 +6,13 @@
 }
 .bouton{
     margin:400px;
-    padding-top: 10px
+    
+}
+.profil{
+    width: 40px;
+}
+.loupe{
+    width: 40px;
 }
 .globe{
     width: 25px;
@@ -38,10 +44,6 @@
     flex-direction: column;    
     justify-content: space-between;
     align-items: left;
-    
-}
-.villa{
-    
     
 }
 .piscine{
@@ -79,8 +81,4 @@
 }
 .cabanes{
     width: 25px;
-}
-.img1{
-    padding-right: 30px;
-    margin-left: 30px;
 }
